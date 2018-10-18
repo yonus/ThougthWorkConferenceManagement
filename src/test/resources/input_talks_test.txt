@@ -1,0 +1,3 @@
+Overdoing it in Python 45min
+Rails for Python Developers lightning
+Writing Fast Tests Against Enterprise Rails 60min
